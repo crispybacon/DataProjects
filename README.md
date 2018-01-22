@@ -1,2 +1,2 @@
 # DataProjects
-Jupyter Notebooks that are part of Data Projects.  This Repository will be updated intermittently. Thank you for contributions.
+Applied Knowledge exercises as I work through Machine learning courseare. The data set came from OpenData.gov and is downloaded in the linear regression lesson (step1).   
