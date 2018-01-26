@@ -1,5 +1,5 @@
 # DataProjects
-Applied Knowledge exercises as I work through Machine learning courseare. The data set came from OpenData.gov and is downloaded in the linear regression lesson (step1).   
+Applied Knowledge exercises as I work through Machine learning courses. The data set came from OpenData.gov and is downloaded in the linear regression lesson (step1).   
 
 Some of the exercises were expanded on from examples in the Excellent tuorial at
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/.
